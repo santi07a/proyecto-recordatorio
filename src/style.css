@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #E0DBE3;
+  font-family: 'Tauri', sans-serif;
+}
+h1 {
+  font-size: 28px;
+  color: #131E29;
+}
+.tarjeta {
+  background-color: #A192B2;
+  color: #E5E1E6;
+  width: 50%;
+}
