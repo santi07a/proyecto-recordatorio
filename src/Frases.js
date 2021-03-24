@@ -12,7 +12,8 @@ const frases = [
     "Haz más deporte",
     "Riega tus plantas",
     "No comas azúcar antes de dormir",
-    "No compres cosas innecesarias"
+    "No compres cosas innecesarias",
+    "Hay algo que sabes hacer muy bien, compártelo con otros. Enséñalo a alguien más"
 ]
 
 export default frases;
