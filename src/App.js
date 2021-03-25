@@ -1,6 +1,4 @@
 import { Alert, Col, Container, Row } from "react-bootstrap"
-import "bootstrap/dist/css/bootstrap.min.css";
-import "./style.css"
 import Boton from "./Componentes/Boton";
 import { DateTime } from "luxon";
 
